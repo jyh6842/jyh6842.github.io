@@ -8,7 +8,7 @@
 
 .banner li img {width:30%; vertical-align:middle;}
 .banner ul { list-style-type:none; }  
-.banner li { background-color:pink; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray;}
+.banner li { background-color:lightblue; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray;}
 a:link {
  text-decoration: none;
 }
